@@ -1,3 +1,5 @@
+![health_insurance](https://github.com/user-attachments/assets/942ce91e-15f8-45a2-800e-4e65abcf5d0a)
+
 **Health Insurance Cross Sell Prediction Classification Model**
 
 Welcome to the Health Insurance Cross Sell Prediction classification model repository. This project focuses on predicting whether customers would be interested in purchasing a health insurance policy based on various features and attributes. By leveraging machine learning algorithms, this project assists insurance providers in identifying potential customers for cross-selling health insurance products.
